@@ -1,0 +1,14 @@
+C:\Projetos\desafio-composicao1-csharp\bin\Debug\net8.0\desafio-composicao1-csharp.exe
+C:\Projetos\desafio-composicao1-csharp\bin\Debug\net8.0\desafio-composicao1-csharp.deps.json
+C:\Projetos\desafio-composicao1-csharp\bin\Debug\net8.0\desafio-composicao1-csharp.runtimeconfig.json
+C:\Projetos\desafio-composicao1-csharp\bin\Debug\net8.0\desafio-composicao1-csharp.dll
+C:\Projetos\desafio-composicao1-csharp\bin\Debug\net8.0\desafio-composicao1-csharp.pdb
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.AssemblyInfoInputs.cache
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.AssemblyInfo.cs
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.csproj.CoreCompileInputs.cache
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.dll
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\refint\desafio-composicao1-csharp.dll
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.pdb
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\desafio-composicao1-csharp.genruntimeconfig.cache
+C:\Projetos\desafio-composicao1-csharp\obj\Debug\net8.0\ref\desafio-composicao1-csharp.dll

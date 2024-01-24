@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "desafio-composicao1-csharp/1.0.0": {
+        "runtime": {
+          "desafio-composicao1-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-composicao1-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
